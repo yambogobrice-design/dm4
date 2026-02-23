@@ -1,0 +1,38 @@
+const USERS = [
+  {
+    id: 1,
+    name: 'Lewis Hamilton',
+    country: 'United States',
+    avatar: 'https://img.daisyui.com/images/profile/demo/2@94.webp',
+    company: 'Zemlak, Daniel and Leannon',
+    job: 'Desktop Support Technician',
+    color: 'Purple',
+  },
+  {
+    id: 2,
+    name: 'Brice Swyre',
+    country: 'China',
+    avatar: 'https://img.daisyui.com/images/profile/demo/3@94.webp',
+    company: 'Carroll Group',
+    job: 'Tax Accountant',
+    color: 'Red',
+  },
+  {
+    id: 3,
+    name: 'Marjy Ferencz',
+    country: 'Russia',
+    avatar: 'https://img.daisyui.com/images/profile/demo/4@94.webp',
+    company: 'Rowe-Schoen',
+    job: 'Office Assistant I',
+    color: 'Crimson',
+  },
+  {
+    id: 4,
+    name: 'Yancy Tear',
+    country: 'Brazil',
+    avatar: 'https://img.daisyui.com/images/profile/demo/5@94.webp',
+    company: 'Wyman-Ledner',
+    job: 'Community Outreach Specialist',
+    color: 'Indigo',
+  },
+];
